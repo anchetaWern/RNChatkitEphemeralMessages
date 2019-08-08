@@ -1,6 +1,8 @@
 # RNChatkitEphemeralMessages
 A React Native chat app which shows how to automatically delete messages when specific conditions are met.
 
+Full tutorial is available at: [https://pusher.com/tutorials/ephemeral-messages-react-native-chat](https://pusher.com/tutorials/ephemeral-messages-react-native-chat)
+
 ## Prerequisites
 
 -   React Native development environment
